@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.navbar {
+  width: 100%;
+}
+
+.nav-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: underline;
+  list-style: none;
+}
+
+.nav-lists {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.heading {
+  font-weight: 600;
+  margin: 10px;
+}
